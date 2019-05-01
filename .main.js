@@ -14,5 +14,3 @@ const arrayFinder = businesses.filter(business => {
 });
 
 console.log(bigSpenders)
-
-// PRACTICE: SOLAR SYSTEM /////////////////////////
